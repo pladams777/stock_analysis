@@ -19,6 +19,6 @@ In an attempt to improve efficiency, we refactored the code to only have to cycl
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/107540080/177075533-cfa9ecdb-baef-4f6d-becb-8fed3cb44ef5.png),![VBA_Challenge_2018](https://user-images.githubusercontent.com/107540080/177075573-a73dddae-efad-4281-af90-112cd11204b7.png)
 
 ## Summary
-There can be both Pros and Cons to refactoring code. One advantage can be efficiency as shown in our example. Refactoring can often lead to faster running code that takes up less machine resources. Disadvantages can be that doing so may exceed a given budget or time limit to create a certain project.
+There can be both **Pros** and **Cons** to refactoring code. One advantage can be efficiency as shown in our example. Refactoring can often lead to faster running code that takes up less machine resources. Disadvantages can be that doing so may exceed a given budget or time limit to create a certain project.
 
 When refactoring the original Stock analysis code, the biggest disadvantage was time: the time it took to rebuild and debug the refactored code. But this was definitely outweighed by the advantage of a more efficient code.
